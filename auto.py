@@ -10,14 +10,14 @@ from watchdog.events import FileSystemEventHandler
 
 
 # ? folder to track e.g. Windows: "C:\\Users\\UserName\\Downloads"
-source_dir = "C:/Users/020511631/Downloads"
-dest_dir_sfx = "C:/Users/020511631/Downloads/Áudios"
-dest_dir_music = "C:/Users/020511631/Downloads/Músicas"
-dest_dir_video = "C:/Users/020511631/Downloads/Videos"
-dest_dir_image = "C:/Users/020511631/Downloads/Imagens"
-dest_dir_documents = "C:/Users/020511631/Downloads/Documentos"
-dest_dir_compressed = "C:/Users/020511631/Downloads/Zipados"
-dest_dir_apps = "C:/Users/020511631/Downloads/Apps"
+source_dir = ""
+dest_dir_sfx = ""
+dest_dir_music = ""
+dest_dir_video = ""
+dest_dir_image = ""
+dest_dir_documents = ""
+dest_dir_compressed = ""
+dest_dir_apps = ""
 
 # ? supported image types
 image_extensions = [".jpg", ".jpeg", ".jpe", ".jif", ".jfif", ".jfi", ".png", ".gif", ".webp", ".tiff", ".tif", ".psd", ".raw", ".arw", ".cr2", ".nrw",
