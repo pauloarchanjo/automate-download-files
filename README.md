@@ -36,3 +36,7 @@ You can customize the script by:
 
 - Python 3.x
 - Watchdog library
+
+## License
+
+This repository is licensed under the MIT License. See `LICENSE` for more information.
