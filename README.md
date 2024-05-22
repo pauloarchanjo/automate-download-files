@@ -1,5 +1,6 @@
 # Automate Download Files
-
+![Screenshot](banner.png)
+<br>
 This Python script automates the process of redirecting files from the downloads folder to another folder designated for specific extensions.
 
 ## How It Works
