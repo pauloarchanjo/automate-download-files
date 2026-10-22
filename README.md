@@ -1,3 +1,5 @@
+![ADF](banner.png)
+
 # ADF — Automate Download Files
 
 A lightweight CLI utility that automatically keeps your Downloads directory organized.
@@ -214,12 +216,6 @@ Run tests:
 
 ```bash
 pytest
-```
-
-Run linting:
-
-```bash
-ruff check .
 ```
 
 ## Safety behavior
